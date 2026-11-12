@@ -1,3 +1,2 @@
 analysis : CHECKSTYLE, PMD
 ignored : 
-
